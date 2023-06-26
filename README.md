@@ -4,3 +4,5 @@ Simply choose the visual studio verion,target directory,then click initialize, a
 
 # Screenshot
 ![Visual-Studio-Downloader](https://github.com/EnterpriseSolution/Visual-Studio-Downloader/blob/main/Visual-Studio-Downloader.JPG)
+
+More info on Visual Studio offline installation, please check https://learn.microsoft.com/en-us/visualstudio/install/use-command-line-parameters-to-install-visual-studio?view=vs-2022
